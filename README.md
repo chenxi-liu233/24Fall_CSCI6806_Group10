@@ -11,6 +11,6 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ## obtain public key copy to github
 cat ~/.ssh/id_rsa.pub
 
-# Condo
+# Conda
 refer to [Conda Documentation](https://conda.io/projects/conda/en/latest/index.html)
 
